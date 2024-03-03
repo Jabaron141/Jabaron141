@@ -51,6 +51,6 @@ Soy un desarrollador de software con experiencia y conocimientos sólidos en des
 ### Información Adicional
 
 - **Idiomas**: Español (Nativo), Inglés (B-1)
-- **Ubicación**: ![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
+- **Ubicación**: ![Location](https://img.shields.io/badge/Neiva,%20Huila,%20Colombia-blue)
 
 No dudes en contactarme por correo electrónico o a través de mi perfil de GitHub para cualquier consulta o oportunidad.
